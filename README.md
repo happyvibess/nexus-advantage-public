@@ -27,7 +27,7 @@ Transforming businesses through strategic excellence and technological innovatio
 ## Get Started
 
 Visit our website to learn more about how we can help transform your business:
-[https://happyvibess.github.io/nexus-advantage](https://happyvibess.github.io/nexus-advantage)
+[https://happyvibess.github.io/nexus-advantage-public](https://happyvibess.github.io/nexus-advantage-public)
 
 ---
 © 2025 Nexus Advantage Consulting. All rights reserved.
